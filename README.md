@@ -1,7 +1,4 @@
-remote_theme: pages-themes/dinky@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-- 
+
 # Enterprise Data Management Portfolio
 This page contains a collection of Enterprise Data Task in EDM course I am currently enrolled in
 # About Me
