@@ -14,6 +14,7 @@ This page contains a collection of Enterprise Data Task in EDM course I am curre
 #
 # Sample Image Inserted
 ![screenshot](images/popye.jfif)
+<img src="(images/popye.jfif)" alt="Alt Text" width="300" height="200">
 # Sample File Link
 [Download Raw File](dataFiles/PivotReport.xlsx)
 
