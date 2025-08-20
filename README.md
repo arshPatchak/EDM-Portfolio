@@ -3,7 +3,7 @@
 This page contains a collection of Enterprise Data Task in EDM course I am currently enrolled in
 # About Me
 [<img src="images/profile.avif" width=250 height=250 alt="My Image"/>](images/profile.avif)
-Hi I'm Marsh, Welcome to my Guthub repository ... :blush:
+# Hi I'm Marsh, Welcome to my Guthub repository ... :blush:
 # Education
 - Post Graduate: Doctor in Information Technology (DIT) - Ongoing (AUF)
 - Masters: Master in Informtion Technology(MIT)
@@ -16,7 +16,6 @@ Hi I'm Marsh, Welcome to my Guthub repository ... :blush:
 #
 # Sample Image Inserted
 <!--- ![screenshot](images/profile.avif)--->
-
 # Sample File Link
 [Download Raw File](dataFiles/PivotReport.xlsx)
 
