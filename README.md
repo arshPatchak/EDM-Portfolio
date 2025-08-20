@@ -13,7 +13,7 @@ This page contains a collection of Enterprise Data Task in EDM course I am curre
 - Project 2: [Data Modeling](https://arshpatchak.github.io/testCodes/)
 #
 # Sample Image Inserted
-![screenshot](images/profile.avif)
+![screenshot](images/profile.avif =250x250)
 # Sample File Link
 [Download Raw File](dataFiles/PivotReport.xlsx)
 
